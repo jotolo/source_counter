@@ -16,11 +16,11 @@
 # Uncomment the following lines to make the configuration take effect.
 
 PreCommit:
-  #RuboCop:
-  #  enabled: true
-  #  on_warn: pass
-  #  problem_on_unmodified_line: warn
-  #  command: ['bundle', 'exec', 'rubocop']
+  RuboCop:
+    enabled: true
+    on_warn: pass
+    problem_on_unmodified_line: warn
+    command: ['bundle', 'exec', 'rubocop']
 
 verify_signatures: false
 #

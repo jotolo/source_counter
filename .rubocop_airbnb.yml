@@ -1,0 +1,14 @@
+require:
+  - rubocop-airbnb
+
+Layout:
+  Enabled: false
+Style:
+  Enabled: false
+
+Airbnb/SimpleUnless:
+  Enabled: false
+Airbnb/SimpleModifierConditional:
+  Enabled: false
+Airbnb/DefaultScope:
+  Enabled: false
