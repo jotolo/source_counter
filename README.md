@@ -22,3 +22,6 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Tools
+* [GraphiQL.app](https://github.com/skevy/graphiql-app)
